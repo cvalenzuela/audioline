@@ -1,0 +1,14 @@
+{
+  "name": "audioline",
+  "version": "1.0.0",
+  "description": "A audio timeline editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristobal Valenzuela <cvalenzuela@nyu.edu> (https://github.com/cvalenzuela)",
+  "license": "ISC",
+  "dependencies": {
+    "wavesurfer.js": "2.0.0-beta02"
+  }
+}
